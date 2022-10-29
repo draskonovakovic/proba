@@ -1,0 +1,7 @@
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\bin\Debug\proba.exe.config
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\bin\Debug\proba.exe
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\bin\Debug\proba.pdb
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\obj\Debug\proba.exe
+C:\Users\Drasko\OneDrive\Desktop\OISISI\vezbe\vezbe2\proba\obj\Debug\proba.pdb
